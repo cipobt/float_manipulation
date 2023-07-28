@@ -11,7 +11,7 @@ You need Python 3.x installed on your system to run this program.
 Installing
 
 Clone the repository
-git clone https://github.com/yourusername/float-list-statistics.git
+git clone https://github.com/cipobt/float_manipulation/
 
 Change the directory
 cd float-list-statistics
