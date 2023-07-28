@@ -1,4 +1,4 @@
-#Float List Statistics in Python
+# Float List Statistics in Python
 
 This Python program collects a list of 10 floating point numbers from the user, and calculates various statistical data from this list, such as the sum, maximum and minimum values and their indices, average, and median.
 
